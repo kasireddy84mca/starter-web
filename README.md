@@ -9,3 +9,7 @@ Sample website with plenty of files for demos
 ## Testing for Git
 
 testing the fit commands 
+
+## Hello git....
+
+git changes 
