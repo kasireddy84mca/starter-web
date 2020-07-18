@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <venkat role > -- <twitter>
+    <name> -- <venkat devops roles > -- <twitter>
 
 # THANKS
 
