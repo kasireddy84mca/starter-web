@@ -3,3 +3,5 @@ testing for rebase commands test file.
 testing for rebase commands test file v2 ..
 
 testing for rebase commands test file v3...
+
+testing for rebase commands test same file change devlop v4..
