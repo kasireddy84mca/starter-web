@@ -1,3 +1,5 @@
 Testing for rebase for master ...
 
 Testing for rebase for master  test 2 
+
+testing the stash files....commands.
